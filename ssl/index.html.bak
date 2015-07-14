@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>SSL Model(only administrator)</TITLE>
+<LINK REL=STYLESHEET
+      HREF="../company-styles.css"
+      TYPE="text/css">
+</HEAD>
+<BODY>
+<TABLE BORDER=5 ALIGN="CENTER">
+  <TR><TH CLASS="TITLE">SSL Model(only administrator)</TABLE>
+<P>
+<H3> Only administrator can login using ssl </H3>
+</BODY>
+</HTML>

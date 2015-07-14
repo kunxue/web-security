@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Public resource</TITLE>
+<LINK REL=STYLESHEET
+      HREF="../company-styles.css"
+      TYPE="text/css">
+</HEAD>
+<BODY>
+<TABLE BORDER=5 ALIGN="CENTER">
+  <TR><TH CLASS="TITLE">public resource</TABLE>
+<P>
+<H3>Everyone can login without authentication </H3>
+</BODY>
+</HTML>
